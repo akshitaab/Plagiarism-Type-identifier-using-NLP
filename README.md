@@ -118,15 +118,6 @@ python main.py --data data/sample.csv
 - [ ] Multi-language support  
 - [ ] Sentence-level granularity (highlight *which* spans are plagiarised)
 
----
 
-## Author
 
-**Nitesh Duhan** — Data Scientist · ML Engineer  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-niteshduhan--carp112-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/niteshduhan-carp112)
-[![Gmail](https://img.shields.io/badge/Gmail-niteshduhan686@gmail.com-red?style=flat-square&logo=gmail)](mailto:niteshduhan686@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@nitesh._duhan-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/nitesh._duhan)
-
----
-
-*MIT License · Open for collaborations in NLP, ML, and Data Science*
+* Open for collaborations in NLP, ML, and Data Science*
